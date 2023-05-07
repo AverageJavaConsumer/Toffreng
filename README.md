@@ -1,2 +1,2 @@
 # Toffreng
-An offline dictionary attempt
+An offline dictionary attempt made by Izmir Ekonomi Universitesi students for Project.
